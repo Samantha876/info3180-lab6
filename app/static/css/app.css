@@ -5,3 +5,9 @@ body {
 footer  {
     padding-top: 20px;
 }
+
+.card{
+    width:20rem;
+    margin:8px;
+    display:inline-block;
+}
