@@ -10,4 +10,10 @@ footer  {
     width:20rem;
     margin:8px;
     display:inline-block;
+    border-top: 5px solid teal;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
+}
+
+.news h2{
+    text-align: center;
 }
